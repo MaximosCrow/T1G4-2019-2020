@@ -1,0 +1,7 @@
+Turma: 1
+Grupo: 4
+
+Isla Cassamo up201808549
+Carlos Madaleno up201604906
+
+Nao foram Implementados o Piloto Automatico e o ponto 6.
